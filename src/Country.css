@@ -1,0 +1,22 @@
+.content {
+  width: 300px;
+  border: 1px solid white;
+  margin: 20px auto;
+  padding: 20px;
+  background-color: lightcyan;
+  box-shadow: 0px 0px 7px cyan;
+  color: darkcyan;
+  overflow: hidden;
+}
+
+.details {
+  background-color: gold;
+  border: goldenrod;
+  border-radius: 5px;
+  padding: 7px 30px;
+  cursor: pointer;
+}
+
+.details:hover {
+  color: white;
+}
